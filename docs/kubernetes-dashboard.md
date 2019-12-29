@@ -10,11 +10,12 @@
 sudo snap install microk8s --classic
 ```
 
-如果安装过程中由于网速太慢导致失败，可以在下文给出的Github仓库下载所需文件离线安装，离线安装命令如下：
+如果安装过程中由于网速太慢导致失败，可以下载所需文件离线安装，离线安装命令如下：
 
 ```
+sudo snap download microk8s
 sudo snap ack microk8s_1107.assert
-sudo snap install microk8s_1107.snap
+sudo snap install microk8s_1107.snap --classic
 ```
 
 ### 2. 启用Microk8s Addons
