@@ -83,6 +83,7 @@ spec:
 
 * Kubernetes Dashboard
 ![Kubernetes Dashboard](../images/kubernetes-dashboard.png)
+
 * Kubernetes APIs
 ![Kubernetes APIs](../images/kubectl-proxy.png)
 
