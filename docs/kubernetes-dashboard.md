@@ -83,9 +83,11 @@ spec:
 ### 5. 查看效果
 
 * Kubernetes Dashboard
+
 ![Kubernetes Dashboard](../images/kubernetes-dashboard.png)
 
 * Kubernetes APIs
+
 ![Kubernetes APIs](../images/kubectl-proxy.png)
 
 ### 6. VPN配置
